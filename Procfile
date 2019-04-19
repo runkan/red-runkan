@@ -1,0 +1,1 @@
+worker: python runkan.py
