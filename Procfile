@@ -1,1 +1,1 @@
-worker: python runkan.py
+worker: python 디스코드봇.py
